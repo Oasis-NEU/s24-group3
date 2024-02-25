@@ -21,5 +21,4 @@ export default function App() {
     </section>
 
   </h1>;
- 
 }
