@@ -1,11 +1,11 @@
 import TaskForm from "./TaskForm";
+import TaskList from "./TaskList";
 
 
 export default function App() {
 {/* <head> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" /> 
 <link rel="stylesheet" href="App.css" />
 </head> */}
- 
     return( 
     <div id="parent-div">
     <h1>Hello!
@@ -27,6 +27,10 @@ export default function App() {
     </section>
 
   </h1>
+  <div>
   <TaskForm/>
+  <TaskList/>
+  </div>
+  {/* <TaskForm/> */}
   </div>);
 }
