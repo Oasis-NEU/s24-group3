@@ -10,7 +10,7 @@ export default function App() {
 
     <section id="Bullet list">
       <div>
-        <p> 🐠 These are your tasks for the week 🐠</p>
+        <p> 🐠 List your tasks for the week! 🐠</p>
       </div>
     </section>
 
