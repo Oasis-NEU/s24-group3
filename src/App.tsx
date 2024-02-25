@@ -1,6 +1,8 @@
 export default function App() {
-  <head> <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" /> </head>
-  return <h1>Hello!
+<head> <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" /> 
+<link rel="stylesheet" href="App.css" />
+</head>
+    return <h1>Hello!
     <h2>🐡 🐠 🐟 🐬 This is maya and grace 🐳 🐋 🦈 🐙 🦑</h2>
     <section id="Task-Section">
       <div>
